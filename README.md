@@ -1,4 +1,4 @@
-# Pinecone Vector DB
+## Pinecone Vector DB
 
 A hands-on demo project showcasing how to use the **Pinecone vector database** for semantic search and RAG (Retrieval-Augmented Generation) workflows with modern LLM tools like LangChain and OpenAI embeddings.
 
